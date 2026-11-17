@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Cadastru (Docker)",
+      "Group": "Servers",
+      "Host": "db",
+      "Port": 5432,
+      "MaintenanceDB": "cadastru",
+      "Username": "cadastru_app",
+      "SSLMode": "prefer"
+    }
+  }
+}
